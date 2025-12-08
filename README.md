@@ -55,7 +55,9 @@ The solution implements industry best practices including medallion architecture
 
 ## System Architecture
 
+<img width="1091" height="502" alt="image" src="https://github.com/user-attachments/assets/d4511029-0c0a-410c-964c-4be65057ff21" />
 
+---
 ## Core Features
 
 ### Medallion Architecture
